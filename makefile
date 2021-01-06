@@ -1,6 +1,6 @@
 # Model compilation options
 TARGET=lsd
-FUN=fun_exercicio
+FUN=fun_exercicio1.1
 FUN_EXTRA=
 SWITCH_CC=-O3 -ggdb3
 SWITCH_CC_LNK=
